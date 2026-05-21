@@ -10,11 +10,10 @@
         android:strokeWidth="3"
         android:fillColor="@android:color/transparent"
         android:pathData="M54,20 A34,34 0 1,1 53.99,20 Z"/>
-    <circle
+    <!-- centre dot drawn as a path circle -->
+    <path
         android:fillColor="#00FFFF"
-        android:cx="54"
-        android:cy="54"
-        android:r="8"/>
+        android:pathData="M54,46 A8,8 0 1,1 53.99,46 Z"/>
     <path
         android:strokeColor="#00FFFF"
         android:strokeWidth="2.5"
