@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joey</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_gamepad">Gamepad</string>
+    <string name="connect_hint">IP Address (e.g. 192.168.1.100)</string>
+    <string name="connect_title">Connect to Laptop</string>
+    <string name="controller_select">Select Controller</string>
+    <string name="ctrl_ps4">PlayStation (DualShock 4)</string>
+    <string name="ctrl_nintendo">Nintendo Switch Pro</string>
+    <string name="ctrl_rc">RC Transmitter (T8L M2)</string>
+</resources>
